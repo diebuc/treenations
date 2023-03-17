@@ -1,0 +1,64 @@
+{
+    "annual-trees-info": [
+        {
+            "Month": "January",
+            "number of trees": "200000",
+            "COt-compensation": "200"
+        },
+        {
+            "Month": "February",
+            "number of trees": "225000",
+            "COt-compensation": "225"
+        },
+	{
+            "Month": "March",
+            "number of trees": "300000",
+            "COt-compensation": "300"
+        },
+	{
+            "Month": "April",
+            "number of trees": "300000",
+            "COt-compensation": "300"
+        },
+	{
+            "Month": "May",
+            "number of trees": "450000",
+            "COt-compensation": "450"
+        },
+	{
+            "Month": "June",
+            "number of trees": "235000",
+            "COt-compensation": "235"
+        },
+	{
+            "Month": "July",
+            "number of trees": "80000",
+            "COt-compensation": "80"
+        },
+	{
+            "Month": "August",
+            "number of trees": "125000",
+            "COt-compensation": "125"
+        },
+	{
+            "Month": "September",
+            "number of trees": "210000",
+            "COt-compensation": "210"
+        },
+	{
+            "Month": "October",
+            "number of trees": "275000",
+            "COt-compensation": "275"
+        },
+	{
+            "Month": "November",
+            "number of trees": "365000",
+            "COt-compensation": "365"
+        },
+	{
+            "Month": "December",
+            "number of trees": "50000",
+            "COt-compensation": "50"
+        }
+    ]
+}
